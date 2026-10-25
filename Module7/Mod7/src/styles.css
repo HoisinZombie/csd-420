@@ -1,0 +1,24 @@
+/*
+Andrew Estrada
+Module 7.2
+CSD-420
+10/25/26
+*/
+
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
+
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
+
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
